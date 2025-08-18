@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/t7g7at33ho0rojks?svg=true)](https://ci.appveyor.com/project/ElizavetaKalanchuk/patterns1)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1a42e8a-055d-4122-8262-f499f467f7be" />
